@@ -1,0 +1,9 @@
+venv/
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+.streamlit/secrets.toml
+data/
+reset_customers.py
+legacy_app.py

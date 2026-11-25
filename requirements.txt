@@ -1,0 +1,9 @@
+streamlit>=1.50
+pandas
+plotly
+sqlalchemy
+pymysql
+cryptography
+python-dotenv
+sqlglot
+google-genai
